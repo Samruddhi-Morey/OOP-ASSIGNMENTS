@@ -22,7 +22,7 @@ class student
 };
 int main()
 {
-    student s1(43,"Kanan_Gupta","SOAI");
+    student s1(10,"Samruddhi_Morey","SOAI");
     s1.display();
     return 0;
 }
